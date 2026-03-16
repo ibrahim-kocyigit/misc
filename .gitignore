@@ -1,3 +1,6 @@
+methodology/
+temp.*
+
 # generated docs items
 docs/site/
 docs/docs/_partials/termynal.md
